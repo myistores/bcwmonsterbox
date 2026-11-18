@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bcwmonsterbox.com/sitemap.xml
